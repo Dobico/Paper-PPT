@@ -1,0 +1,12 @@
+openai:
+  api_key_env: OPENAI_API_KEY
+  model: gpt-3.5-turbo
+  temperature: 0.3
+
+slides:
+  template_path: null  # or "template.pptx"
+  style: default
+  output_path: summary_output.pptx
+
+input:
+  pdf_path: /Users/skyunyoo/Desktop/SaaS/Paper2Slides/sample/paper.pdf
