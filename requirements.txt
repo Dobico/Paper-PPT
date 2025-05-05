@@ -3,3 +3,4 @@ openai
 python-pptx
 pypdf
 pymupdf
+python-dotenv
